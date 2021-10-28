@@ -7,3 +7,7 @@ Programa que simula um crachá para o evento DoWhile da Rocketseat (2021). O sis
 HTML: fonts, googleaplis, div, src, h1, id, href, span, ul, li, class; 
 
 JS: function, object, const, let, for, getAttribute, href, template string, api, github, fetch, then, json, textContent;
+
+## preview
+
+![preview](https://github.com/scaramuzza/nlwHeat-2021-Rocketseat/blob/main/nlwHeat-2021-Rocketseat.png)
