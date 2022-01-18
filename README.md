@@ -2,6 +2,10 @@
 
 Programa que simula um crachá para o evento DoWhile da Rocketseat (2021). O sistema possui uma função, que substitui os dados cadastrados previamente no HTML por dados do usuário proveniente de um objeto. Além disso, outra função puxa os dados do usuário através de uma API do GitHub e a direciona para o HTML, substituindo também outros dados cadastrados anteriormente;
 
+## license
+
+Este código tem o objetivo único de mostrar ao mercado minha evolução como desenvolvedor de software, logo, <b>NÃO</b> é permitido a comercialização, modificação, distribuição e uso privado;
+
 ## keywords
 
 HTML: fonts, googleaplis, div, src, h1, id, href, span, ul, li, class; 
