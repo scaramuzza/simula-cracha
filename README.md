@@ -17,4 +17,3 @@ JS: function, object, const, let, for, getAttribute, href, template string, api,
 ## preview
 
 ![preview](https://github.com/scaramuzza/nlwHeat-2021-Rocketseat/blob/main/simula-cracha.png)
-aaaaa
